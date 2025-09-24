@@ -20,7 +20,7 @@ O projeto foi estruturado com foco em segurança, usabilidade e escalabilidade, 
 
 - <a href="https://www.figma.com/proto/VLk0xT5KpDvmrb7zorKtiX/Banco?node-id=1-1225&p=f&t=Zeth8WuoaiY4UI8K-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1" target="_blank">Telas no Figma</a>
 
-- <a href="https://www.figma.com/proto/VLk0xT5KpDvmrb7zorKtiX/Banco?node-id=1-1225&p=f&t=Zeth8WuoaiY4UI8K-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1" target="_blank">Requisitos Funcionais</a>
+- <a href="https://github.com/JuliaFCap/Trabalho-Arnaldo/blob/main/Engenharia%20de%20Software/Levantamento%20de%20Requisitos/Requisitos%20funcionais.pdf" target="_blank">Requisitos Funcionais</a>
 
 - <a href="https://github.com/JuliaFCap/Trabalho-Arnaldo/blob/main/Engenharia%20de%20Software/Levantamento%20de%20Requisitos/Requisitos%20n%C3%A3o%20funcionais.pdf" target="_blank">Requisitos não Funcionais</a>
 
